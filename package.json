@@ -1,0 +1,24 @@
+{
+  "name": "nodeno1",
+  "version": "1.0.0",
+  "description": "node练习gwj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neosGao/nodeno1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neosGao/nodeno1/issues"
+  },
+  "homepage": "https://github.com/neosGao/nodeno1#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
